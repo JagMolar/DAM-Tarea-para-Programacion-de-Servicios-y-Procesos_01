@@ -1,0 +1,6 @@
+P0 Error al crear el fichero
+P0 Error al leer del fichero
+P0 Error al escribir en el fichero
+P0 Error al crear el fichero
+P0 Error al leer del fichero
+P0 Error al escribir en el fichero
